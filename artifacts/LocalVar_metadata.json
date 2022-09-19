@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getLocal",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"03-localVariable.sol": "LocalVar"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"03-localVariable.sol": {
+			"keccak256": "0xd1426100e61886cb4f49b93c835b9affde69e2737c581769a192eca92d495b54",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c03797e4d46f3070fb9543d34bddc0595cc202271ea48f42c99c7fddda77266a",
+				"dweb:/ipfs/QmSEtkJz5Gek6sVjJWYjSp2osVEynGyrkYqKJwcT9jGaWN"
+			]
+		}
+	},
+	"version": 1
+}

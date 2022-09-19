@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "str1",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "str2",
+						"type": "string"
+					}
+				],
+				"name": "concatenate",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"29-stringConcatenation.sol": "Strings"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"29-stringConcatenation.sol": {
+			"keccak256": "0xb3ad9a45d99fe3447be29d16436173a9f088c443d6146b112d89e2ad51775c34",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://7699cf03ed494238daa6f191983a0ae7a49e36e005b096ae263ebe2ab7dfba28",
+				"dweb:/ipfs/Qmayc8kC5n1SrrXpG7X6fUfv2VE44WR9Udunin3AfqDU3z"
+			]
+		}
+	},
+	"version": 1
+}

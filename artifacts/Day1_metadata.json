@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getChoice",
+				"outputs": [
+					{
+						"internalType": "enum Day1.House",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "setLarge",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"17-enum.sol": "Day1"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"17-enum.sol": {
+			"keccak256": "0x97bff8ba6a8d93c37abf48c903133af38cea9c5c15b2eeb42680e30ce0568d1b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://09c5d4dde643a1d984be62cab1dbed901b0b9ce4e6aa4d750a27ba997abe4278",
+				"dweb:/ipfs/QmPVa4eyZ2HjXBNfNZXkZKmCUKUCkRhP8XUD9CPJqpTxEu"
+			]
+		}
+	},
+	"version": 1
+}

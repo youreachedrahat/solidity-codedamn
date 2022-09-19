@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"08-interger.sol": "Integer"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"08-interger.sol": {
+			"keccak256": "0x95bab8a93875e7eb756fb6baeb51baa4a780e0d9aa235fed5c1785b6a9b38fca",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://cca11928aa9c361958dbc58ba41f4db891ba853061faa1d507cbf494f27cdc7b",
+				"dweb:/ipfs/QmWsRS8kVo3qQ7JuHAXNCuVsUC4M9CSdHqV7Uj6KFAVXr8"
+			]
+		}
+	},
+	"version": 1
+}

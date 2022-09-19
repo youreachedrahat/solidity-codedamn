@@ -1,0 +1,85 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "b1",
+				"outputs": [
+					{
+						"internalType": "bytes1",
+						"name": "",
+						"type": "bytes1"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "getByteValue",
+				"outputs": [
+					{
+						"internalType": "bytes1",
+						"name": "",
+						"type": "bytes1"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "bytes1",
+						"name": "_item",
+						"type": "bytes1"
+					}
+				],
+				"name": "setBytesArray",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"13-fixedBytesArray.sol": "FixedSizeArray"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"13-fixedBytesArray.sol": {
+			"keccak256": "0x431c13fde733afd13f9d023008521a39647927a697eee22eea03895fb143210e",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://abbd54dbf20198162d57b37a4989a291c0172910a354dbaa7d8a7ce832de7f24",
+				"dweb:/ipfs/QmSvSufLixQSg788HSQtNHG4UK7RsqpWh8qZ846iV6ohbF"
+			]
+		}
+	},
+	"version": 1
+}

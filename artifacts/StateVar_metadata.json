@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "rollNumber",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"02-stateVariable.sol": "StateVar"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"02-stateVariable.sol": {
+			"keccak256": "0xae874fcdaef27c0f48e2830239776414e8e58613f04361d7363a17f79eef9fa9",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://4363623a6168dbaa161cdd475a975cb58bd885d2d7cf41848193579742821e95",
+				"dweb:/ipfs/QmVWdXZXtQhzSqqBFBAD5QypdKjxEde1Gvs5aWdJncBnzK"
+			]
+		}
+	},
+	"version": 1
+}

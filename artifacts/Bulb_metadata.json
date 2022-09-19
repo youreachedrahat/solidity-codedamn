@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "switchOff",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "switchOn",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"21-interface.sol": "Bulb"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"21-interface.sol": {
+			"keccak256": "0x713f0435f35ee943e29ead48630297d67c1d1fcaf0354b5c7f114b1b6359ddef",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://5ddb1eef320a89791edb86a07cc27c3962888bd8d1ea011e454688f9ffb9a33f",
+				"dweb:/ipfs/QmPY4s8kRpe4847SeL452TMsCi7b9NQxPchxZKZQbTmRY7"
+			]
+		}
+	},
+	"version": 1
+}
